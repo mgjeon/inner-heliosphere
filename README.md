@@ -1,4 +1,6 @@
-# Inner Heliosphere Model
+# Heliosphere Model
+
+- [Heliophysics Educational Resources](https://heliophysics.ucar.edu/resources)
 
 ## Ambient Solar Wind Model
 
