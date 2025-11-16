@@ -14,6 +14,7 @@
 - https://github.com/hapi-server/client-python
 - https://github.com/jgieseler/solarmach
 - https://gong.nso.edu/
+- https://magmap.nso.edu/index.html
 - https://nso.edu/data/nisp-data/synoptic-maps/
 - http://jsoc.stanford.edu/
 - https://github.com/JSOC-SDP/drms
